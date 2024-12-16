@@ -19,6 +19,7 @@ int main()
     int numero = 5;
     int num_fat = calc_fat(numero);
     printf("\nO fatorial de %d eh: %d", numero , num_fat);
+    printf("Estamos em um novo RAMO do Git.");
     return 0;
 }
 
