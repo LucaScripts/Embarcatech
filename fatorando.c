@@ -24,6 +24,8 @@ int main()
     return 0;
 }
 
+
+;
 /* Definição da funcao fatorial */
 int calc_fat(int b)
 {
